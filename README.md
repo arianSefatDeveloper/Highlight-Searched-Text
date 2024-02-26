@@ -9,3 +9,5 @@ This project highlights the word you are looking for
   - CSS
   - JavaScript 
   - Regex
+
+### Check This Project [Online](https://ariansefatdeveloper.github.io/Highlight-Searched-Text/)
